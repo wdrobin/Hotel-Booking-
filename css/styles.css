@@ -1,0 +1,202 @@
+.navbar-nav>li>a {
+	color: black;
+	font-size: 16pt;
+	text-decoration: none;
+	margin: 0 5px;
+	font-family: Bebas-Regular;
+}
+.navbar-nav>li>a:hover {
+	color: blue;
+	font-family: Bebas-Regular;
+}
+section{
+	height: auto;
+	background-color: white;
+	background-size: cover;
+}
+
+.dest > .col-sm-2 {
+    background-color: black;
+    padding: 20px 10px;
+}
+.dest > .col-sm-4 {
+    background-color: black;
+    padding: 20px 0px;
+}
+.dest .form-control {
+    border-radius: 0px;
+    font-size: 16pt;
+    font-family: OpenSans-Regular;
+}
+.dest .form-control:hover {
+    color: white;
+    background-color: blue;
+    border: 2px solid white;
+    font-family: OpenSans-Regular;
+}
+.dest .btn-block {
+	color: white;
+	font-size: 16pt;
+	background-color: #4e26fd;
+    padding: 5px 30px;
+    border-radius: 0px;
+    font-family: Bebas-Regular;
+}
+.dest .btn-block:hover{
+	color: blue;
+	background-color: magenta;
+	border: 2px solid blue;
+	font-family: Bebas-Regular;;
+}
+.ps-15{
+	padding-left: 15%;
+}
+.pse-0{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+hr{
+	color: #4e26fd;
+	margin: 0px;
+}
+
+.High-quality-text{
+	color: #999999;
+	font-size: 14pt;
+	text-align: justify;
+}
+.more-button{
+	font-size: 18pt;
+	padding: 5px 40px;
+	padding-bottom: 5px;
+	color: #4e26fd;
+	background-color: white;
+	border: 2px solid #4e26fd;
+	font-family: Bebas-Regular;
+}
+.more-button:hover{
+	color: blue;
+	background-color: magenta;
+	border: 2px solid blue;
+	font-family: Bebas-Regular;
+}
+.text3{
+	color: white;
+	font-size: 12;
+	padding-bottom: 0px !important;
+	text-align: justify;
+}
+
+.text4{
+	color: #999999;
+	font-size: 14pt;
+	text-align: justify;
+	line-height: 25px;
+}
+.line-height{
+	line-height: 18px;
+}
+
+.home5{
+	height: auto;
+	background-image: url(../image/bg5.jpg);
+	background-size: cover;
+}
+.text5{
+	color: white;
+	font-size: 15pt;
+	text-align: justify;
+}
+.more-button-2{
+	color: white;
+	background-color: #0000ff;
+	font-size: 18pt;
+	padding: 5px 40px;
+	padding-bottom: 5px;
+	border: 2px solid #0000ff;
+	font-family: Bebas-Regular;
+}
+.more-button-2:hover{
+	color: blue;
+	background-color: magenta;
+	border: 2px solid blue;
+	font-family: Bebas-Regular;
+}
+.winter > h1{
+	font-size: 48pt;
+	line-height: 50px;
+}
+.white{
+	color: white;
+}
+.contact > h6{
+	color: white;
+	padding-bottom: 5px;
+	font-family: BebasNeue-Bold;
+}
+.color{
+	color: #4826df;
+}
+.icon i {
+		border: 2px solid white;
+		padding: 15px 10px;
+}
+.footer {
+	color: white;
+    background: black;
+    padding: 10px 0;
+    text-align: center;
+}
+h1:hover{
+	color: #ca12d6;
+}
+h2:hover{
+	color: #ca12d6;
+}
+h3:hover{
+	color: #ca12d6;
+}
+h5:hover{
+	color: #ca12d6;
+}
+h6:hover{
+	color: #ca12d6;
+}
+p:hover{
+	color: #12d629;
+}
+.pt-150{
+	padding-top: 150px;
+}
+@font-face{
+	font-family:OpenSans-Bold;
+	src: url(fonts/OpenSans-Bold.ttf);
+}
+.OpenSans-Bold{
+	font-family: OpenSans-Bold;
+}
+@font-face{
+	font-family:OpenSans-Regular;
+	src: url(fonts/OpenSans-Regular.ttf);
+}
+.OpenSans-Regular{
+	font-family: OpenSans-Regular;
+}
+@font-face{
+	font-family:OpenSans-Light;
+	src: url(fonts/OpenSans-Light.ttf);
+}
+.OpenSans-Light{
+	font-family:OpenSans-Light;
+}
+@font-face{
+	font-family: BebasNeue-Bold;
+	src: url(fonts/BebasNeue-Bold.otf);
+}
+.BebasNeue-Bold{
+	font-family: BebasNeue-Bold;
+}
+@font-face{
+	font-family: Bebas-Regular;
+	src: url(fonts/Bebas-Regular.otf);
+}
